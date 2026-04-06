@@ -1,8 +1,7 @@
 
 ## 🚀 About Me
-I'm a full stack developer... I am would like to get a Job where they using NestJs, GO, Docker or React Native.
-
-I love to develop apps, using agents of IA.
+I'm a full stack developer...  NestJS · React Native · Node.js · Angular | ExpressJS | PostgreSQL | MongoDB | GCP | 5+ Yrs | Remote Ready
+I love to develop apps, using agents of IA too.
 
 
 
