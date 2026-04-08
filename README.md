@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a full stack developer... I am would like to get a Job where they using NestJs, GO, Docker or React Native.
+I'm a full stack developer... I am would like to get a Job where they using NestJs,  Docker, Angular or React Native.
 
 I love to develop apps, using agents of IA.
 
